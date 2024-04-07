@@ -35,6 +35,10 @@ function Doctors() {
           img={profile3}
           name="Sequoia"
         />
+        <DoctorCard
+          img={profile4}
+          name="Sequoia"
+        />
       </div>
     </div>
   );
